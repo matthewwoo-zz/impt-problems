@@ -1,0 +1,22 @@
+#page{
+	width: 640px;
+	height: 1136px;
+}
+
+.box
+{
+background:black;
+height: 10%;
+width: 50%;
+}
+
+.plus
+{
+background:green;
+height:10%;
+width:10%;
+top:90%;
+left:90%;
+position: relative
+}
+
